@@ -6,7 +6,7 @@
 * 1ª Evaluación
 * 2ª Evaluación
 
-Splash | Login
+Foto1 | Foto2
 -------|--------
 ![](img/foto1.jpeg) | ![](img/foto2.jpeg)
 
